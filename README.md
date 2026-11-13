@@ -28,10 +28,16 @@ No ads, no sign-up, no tracking cookies. Everything runs in your browser. We onl
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/meridius) · 💬 [Feedback](https://github.com/meridi-support/meridi-square/discussions)
 
 ## Other tools by Meridi Brand
-📅 [MeridiMeet](https://meridibrand.com/meet/) · 📖 [MeridiLingo](https://meridibrand.com/lingo/) · 🌌 [MeridiStars](https://meridibrand.com/stars/) · 🌊 [MeridiDepths](https://meridibrand.com/depths/) · 🎮 [MeridiPlay](https://meridibrand.com/play/) · 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105)
+📅 [MeridiMeet](https://meridibrand.com/meet/) · 🐾 [MeridiLingo](https://meridibrand.com/lingo/) · 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) · 🌌 [MeridiStars](https://meridibrand.com/stars/) · 🪨 [MeridiGround](https://meridibrand.com/ground/) · 🌊 [MeridiDepths](https://meridibrand.com/depths/) · 🎮 [MeridiPlay](https://meridibrand.com/play/)
 
-## Changelog
-- **v1.0.0** — 2026-11-13 — Initial release
+### 🧮 v1.0.0 — 2026-11-13
+- First release with 5 tabs
+- 🧮 Units: 11 categories, ~150 units incl. traditional Japanese units (尺・坪・升), expressions, favorites, history, significant figures
+- 📐 Graph paper: area (m² / 坪 / 畳), perimeter, side lengths, angles, volume with thickness, compass, PNG export, keyboard controls
+- 📏 Shapes: 10 plane + 7 solid shapes, triangle solver, slopes (% / 寸勾配 / degrees / 1:n)
+- 🔢 Numbers: scientific calculator, number bases, ratios & tax, scale, dates & working days, Japanese era
+- 🛠 On-site: paper sizes, price per 坪 ⇔ m², lumber, concrete, tiles, stairs, electricity cost, paint & wallpaper
+- 🔰 Example buttons, 🔗 share links, 🖨 print view, Japanese / English
 
 ## License
 MIT © 2026 Meridi Brand
